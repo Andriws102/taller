@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+}
+
+aside{    
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/691/170/464/fondos-de-pantalla-color-azul-abstract-wallpaper-preview.jpg");
+    background-size: cover;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+form{
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+}
+
+form fieldset{
+    border: none;
+}
+
+input {
+    width: 90%;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
